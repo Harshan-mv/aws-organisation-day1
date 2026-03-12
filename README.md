@@ -181,25 +181,6 @@ Through this project I learned how to:
 
 ---
 
-## Next Steps
-
-Planned improvements:
-
-- Configure **Organization-wide CloudTrail**
-- Store logs in **Log Archive account**
-- Enable **AWS Security Hub**
-- Implement **cross-account security monitoring**
-
----
-
-## Project Status
-
-Day 1 – AWS Organizations Setup  
-Day 2 – Role-Based Access Control with IAM Identity Center  
-Day 3 – Centralized Logging (Planned)
-
----
-
 ## Author
-
+Harshan MV
 DevOps / Cloud Learning Project
